@@ -1,0 +1,1 @@
+# SharingApp_elastic_search_starter
